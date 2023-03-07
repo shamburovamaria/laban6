@@ -50,8 +50,8 @@
 # print('Ошибка цвета')
 
 
-n=int(input("Введите количество слов: "))
-w=[]
-for i in range(n):
-    w.append(str(input()))
-print(" ".join(w))
+# n=int(input("Введите количество слов: "))
+# w=[]
+# for i in range(n):
+#     w.append(str(input()))
+# print(" ".join(w))

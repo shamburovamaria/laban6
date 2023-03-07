@@ -1,3 +1,4 @@
+
 # a=input("Придумайте пароль:")
 # if len(a)<5:
 #     print("Пароль слишком короткий")
@@ -50,8 +51,18 @@
 # print('Ошибка цвета')
 
 
-n=int(input("Введите количество слов: "))
-w=[]
-for i in range(n):
-    w.append(str(input()))
-print(" ".join(w))
+# n=int(input("Напишите количество слов:"))
+# w=[0]*n
+# for i in range(0,n):
+#     print("Введите слово:")
+#     w[i]=input()
+#     i+=1
+# for i in range(0,n):
+#     print(w[i], end = " ")
+#     i+=1
+
+
+
+
+
+
